@@ -1,0 +1,15 @@
+/Users/thatguy/code/C#/gradebook/src/GradeBook/bin/Debug/net6.0/GradeBook
+/Users/thatguy/code/C#/gradebook/src/GradeBook/bin/Debug/net6.0/GradeBook.deps.json
+/Users/thatguy/code/C#/gradebook/src/GradeBook/bin/Debug/net6.0/GradeBook.runtimeconfig.json
+/Users/thatguy/code/C#/gradebook/src/GradeBook/bin/Debug/net6.0/GradeBook.dll
+/Users/thatguy/code/C#/gradebook/src/GradeBook/bin/Debug/net6.0/GradeBook.pdb
+/Users/thatguy/code/C#/gradebook/src/GradeBook/obj/Debug/net6.0/GradeBook.csproj.AssemblyReference.cache
+/Users/thatguy/code/C#/gradebook/src/GradeBook/obj/Debug/net6.0/GradeBook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thatguy/code/C#/gradebook/src/GradeBook/obj/Debug/net6.0/GradeBook.AssemblyInfoInputs.cache
+/Users/thatguy/code/C#/gradebook/src/GradeBook/obj/Debug/net6.0/GradeBook.AssemblyInfo.cs
+/Users/thatguy/code/C#/gradebook/src/GradeBook/obj/Debug/net6.0/GradeBook.csproj.CoreCompileInputs.cache
+/Users/thatguy/code/C#/gradebook/src/GradeBook/obj/Debug/net6.0/GradeBook.dll
+/Users/thatguy/code/C#/gradebook/src/GradeBook/obj/Debug/net6.0/refint/GradeBook.dll
+/Users/thatguy/code/C#/gradebook/src/GradeBook/obj/Debug/net6.0/GradeBook.pdb
+/Users/thatguy/code/C#/gradebook/src/GradeBook/obj/Debug/net6.0/GradeBook.genruntimeconfig.cache
+/Users/thatguy/code/C#/gradebook/src/GradeBook/obj/Debug/net6.0/ref/GradeBook.dll
